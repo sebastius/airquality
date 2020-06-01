@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name PMS7003)(type Legacy)(uri ${KIPRJMOD}/parts/PMS7003/PMS7003.lib)(options "")(descr ""))
+)

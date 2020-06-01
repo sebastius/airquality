@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name PMS7003)(type KiCad)(uri ${KIPRJMOD}/parts/PMS7003)(options "")(descr ""))
+)
