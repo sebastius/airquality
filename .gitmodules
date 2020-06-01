@@ -1,0 +1,3 @@
+[submodule "hardware/Airquality/parts/wemos-d1-mini-kicad"]
+	path = hardware/Airquality/parts/wemos-d1-mini-kicad
+	url = git@github.com:rubienr/wemos-d1-mini-kicad.git
