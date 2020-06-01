@@ -300,4 +300,15 @@ Wire Wire Line
 	7950 3950 7950 4050
 Wire Wire Line
 	8150 950  8150 1000
+$Comp
+L Connector:Conn_01x04_Male J3
+U 1 1 5ED64641
+P 6350 1850
+F 0 "J3" H 6458 2131 50  0000 C CNN
+F 1 "Conn_01x04_Male" H 6458 2040 50  0000 C CNN
+F 2 "Connector:NS-Tech_Grove_1x04_P2mm_Vertical" H 6350 1850 50  0001 C CNN
+F 3 "~" H 6350 1850 50  0001 C CNN
+	1    6350 1850
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
