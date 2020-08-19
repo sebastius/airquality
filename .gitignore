@@ -3,6 +3,8 @@
 
 # Temporary files
 .DS_Store
+*.DS_Store
+
 *.000
 *.bak
 *.bck
