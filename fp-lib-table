@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Sensor_MH-Z19)(type KiCad)(uri ${KIPRJMOD}/parts_models/modules/Sensor_MH-Z19.pretty)(options "")(descr ""))
+  (lib (name parts_models)(type KiCad)(uri ${KIPRJMOD}/parts_models)(options "")(descr ""))
+  (lib (name RFM95W-915S2)(type KiCad)(uri ${KIPRJMOD}/parts_models/RFM95W-915S2)(options "")(descr ""))
+)

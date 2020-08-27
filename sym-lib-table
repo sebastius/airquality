@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name Sensor_MH-Z19)(type Legacy)(uri ${KIPRJMOD}/parts_models/library/Sensor_MH-Z19.lib)(options "")(descr ""))
+  (lib (name PMS7003)(type Legacy)(uri ${KIPRJMOD}/parts_models/PMS7003.lib)(options "")(descr ""))
+  (lib (name RFM95W-915S2)(type Legacy)(uri ${KIPRJMOD}/parts_models/RFM95W-915S2/RFM95W-915S2.lib)(options "")(descr ""))
+)
